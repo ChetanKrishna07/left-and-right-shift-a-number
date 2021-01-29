@@ -1,4 +1,4 @@
-# left-and-right-shift-a-number
+# Left and Right Shifting a Number
 Left and Right shifts the digits of a number
 
 ## Right Shift:
